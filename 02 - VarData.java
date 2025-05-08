@@ -2,7 +2,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package project2;
 
 /**
  *
@@ -22,7 +21,7 @@ public class VarData {
         float nilai2 = a/c;
         
         // Variabel String
-        String name = "Haryanto Nugroho | 22110602";
+        String name = "Haryanto Nugroho";
         
         System.out.println(name);
         
