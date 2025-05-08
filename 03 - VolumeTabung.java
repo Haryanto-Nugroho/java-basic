@@ -2,7 +2,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.nhaary.program;
 
 /**
  *
@@ -21,7 +20,6 @@ public class VolumeTabung {
         
         System.out.println("==== MENGHITUNG VOLUME TABUNG ====");
         System.out.println("======== HARYANTO NUGROHO ========");
-        System.out.println("============ 22110602 ============");
 
         System.out.println("Jari-jari Alas = " + r + "cm");
         System.out.println("Tinggi Tabung = " + t + "cm");
